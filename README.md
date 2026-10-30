@@ -1,16 +1,31 @@
-## Hi there 👋
+# Dmitrii Terekhov
 
-<!--
-**di-terekhov/di-terekhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Practical software for complex workflows
 
-Here are some ideas to get you started:
+I build focused tools that make information easier to capture, understand, and act on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Product prototyping · Workflow design · AI-assisted development**
+
+## Selected projects
+
+### Network incident diagnostics
+A tool for investigating network incidents.
+
+### Android voice input
+Speech-to-text input for Android.
+
+### Photo and video organizer
+A tool for organizing photo and video collections.
+
+### ASL video search
+A searchable collection of American Sign Language reference videos.
+
+*Independent projects with private source code. Development stages vary; these are not public product releases.*
+
+## How I work
+
+I start with a concrete problem, define the user scenario, and direct implementation with AI coding tools. I test real scenarios, investigate failures, and iterate on the result.
+
+## Connect
+
+Interested in practical tools, product prototyping, or workflow improvements? [Find me on LinkedIn](https://www.linkedin.com/in/di-terekhov/).
