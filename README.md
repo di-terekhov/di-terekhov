@@ -1,31 +1,10 @@
-# Dmitrii Terekhov
+A few things I'm working on:
 
-### Practical software for complex workflows
+- **Network diagnostics** — a tool for investigating slow or unreliable connections.
+- **Android voice typing** — an app for entering text by speaking instead of typing.
+- **Photo and video organizer** — a tool for putting media collections in order so they're easier to navigate.
+- **ASL video search** — a library for looking up a word and watching how it's signed in American Sign Language.
 
-I build focused tools that make information easier to capture, understand, and act on.
+I use AI coding tools for development, test the apps, and work through what needs fixing. These projects are at different stages, and the source code is private.
 
-**Product prototyping · Workflow design · AI-assisted development**
-
-## Selected projects
-
-### Network incident diagnostics
-A tool for investigating network incidents.
-
-### Android voice input
-Speech-to-text input for Android.
-
-### Photo and video organizer
-A tool for organizing photo and video collections.
-
-### ASL video search
-A searchable collection of American Sign Language reference videos.
-
-*Independent projects with private source code. Development stages vary; these are not public product releases.*
-
-## How I work
-
-I start with a concrete problem, define the user scenario, and direct implementation with AI coding tools. I test real scenarios, investigate failures, and iterate on the result.
-
-## Connect
-
-Interested in practical tools, product prototyping, or workflow improvements? [Find me on LinkedIn](https://www.linkedin.com/in/di-terekhov/).
+[LinkedIn](https://www.linkedin.com/in/di-terekhov/)
