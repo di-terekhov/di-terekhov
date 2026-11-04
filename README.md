@@ -2,6 +2,8 @@ Hi, I'm Di.
 
 I build small tools for everyday problems, usually after catching myself thinking "why isn't there an app that just does this?"
 
+Every project starts with research. Before I build anything, I read up on the problem and on how people deal with it. The design gets the same treatment. When I pick colors, for example, I look for studies on how color works in different settings: whether it suits the topic of the app, or whether it can help people learn faster. I'd rather base decisions on evidence than on guesswork.
+
 Here's what I'm working on right now:
 
 **A network tool for macOS.** When my connection goes bad, I want to mark the moment and look at it later, instead of trying to describe it from memory. So it saves each session, and you can export a report for whoever is fixing it. Think WinMTR, but for Mac and with a history.
@@ -12,6 +14,6 @@ Here's what I'm working on right now:
 
 **An ASL video library.** It lets you compare how different people sign the same word. You can watch them side by side, slow them down, or loop the part you missed.
 
-I build these with AI coding tools, and most of my time goes into testing and fixing things. Some are further along than others. The code is private for now, but I'm always happy to talk about any of them.
+I write the code with AI coding tools. Some projects are further along than others. The code is private for now, but I'm always happy to talk about any of them.
 
 [LinkedIn](https://www.linkedin.com/in/di-terekhov/)
