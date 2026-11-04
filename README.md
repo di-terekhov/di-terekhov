@@ -1,6 +1,6 @@
 Hi, I'm Di.
 
-I build small tools for everyday problems, usually after catching myself thinking "why isn't there an app that just does this?"
+My background is a mix of business, data analysis, network engineering, and ed tech. These days I build small tools for everyday problems, usually after catching myself thinking "why isn't there an app that just does this?" You can probably see that mix in the projects below.
 
 Every project starts with research. Before I build anything, I read up on the problem and on how people deal with it. The design gets the same treatment. When I pick colors, for example, I look for studies on how color works in different settings: whether it suits the topic of the app, or whether it can help people learn faster. I'd rather base decisions on evidence than on guesswork.
 
